@@ -41,8 +41,7 @@ Machine Learning: Scikit-learn
 📦 Installation
 
 Clone this repository:
-
-git clone https://github.com/yourusername/smart-ml-analyzer.git
+git clone https://github.com/himanshu9325/smart-ml-analyzer.git
 cd smart-ml-analyzer
 
 Create a virtual environment (optional but recommended):
